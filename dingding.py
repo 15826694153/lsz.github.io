@@ -35,11 +35,11 @@ os.system("adb pull /sdcard/DCIM/Screenshots/ding.png")
 #os.system("adb shell rm -r /sdcard/DCIM/Screenshots/sdsds.png")
 
 # 发信方的信息：发信邮箱，QQ 邮箱授权码
-from_addr = '2510876368@qq.com'
-password = 'dcfiibgqqseceaag'
+from_addr = '*******@qq.com'
+password = '****'
 
 # # 收信方邮箱
-to_addr = '591051876@qq.com'
+to_addr = '******@qq.com'
 
 # 发信服务器
 smtp_server = 'smtp.qq.com'
