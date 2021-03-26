@@ -36,7 +36,7 @@ os.system("adb pull /sdcard/DCIM/Screenshots/ding.png")
 
 # 发信方的信息：发信邮箱，QQ 邮箱授权码
 from_addr = '*******@qq.com'
-password = '****'
+password = '****'     # QQ 邮箱smtp授权码
 
 # # 收信方邮箱
 to_addr = '******@qq.com'
